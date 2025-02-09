@@ -1,2 +1,2 @@
 # ITI-React
-1. project (prodcts List)
+1. project (products List)
